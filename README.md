@@ -61,12 +61,16 @@ This project is a **Revenue Metrics Dashboard** designed to help product manager
 - Cleaned data using **Power Query**  
 - Formatted columns correctly 
 
-2️⃣ **DAX Measures Created**:
-  
+2️⃣ **DAX Measures Created**
 
+#### Power BI Dashboard Screenshot:
+![Power BI Dashboard](https://github.com/ViolettaTaras/analytics-developer-portfolio/blob/main/Supermarket%20BI.png)
 
+## 📂 Power BI Supermarket Dashboard
 
+You can download the **Power BI `.pbix`** file from the following link:
 
+[Download Power BI Supermarket Dashboard](https://github.com/ViolettaTaras/analytics-developer-portfolio/blob/main/PowerBI%20Supermarket.pbix)
 
 
 
