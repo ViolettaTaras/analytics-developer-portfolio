@@ -30,7 +30,7 @@ This project is a **Revenue Metrics Dashboard** designed to help product manager
 #### Data Source:
 - The data used for this project was extracted using **SQL** queries from a relational database, containing information on user activity, payment amounts, and dates.
 
-#### Tableau Dashboard Screenshot:
+
 
 
 ---
